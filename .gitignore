@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.pyc
+log/*
+lanenet_model/__pycache__
+pretrained_models/*
